@@ -4,7 +4,7 @@
   "description": "Proyecto que prueba llamadas a API con Chai HTTP",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.js --timeot 15000"
+    "test": "mocha test/*.js --timeout 15000"
   },
   "author": "Nicolas Cordero",
   "license": "ISC",
