@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Proyecto que prueba llamadas a API con Chai HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --timeot 15000"
+  },
+  "author": "Nicolas Cordero",
+  "license": "ISC",
+  "devDependencies": {
+    "chai-http": "^3.0.0",
+    "mocha": "^3.5.0",
+    "restify": "^4.3.0"
+  }
+}
