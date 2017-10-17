@@ -9,8 +9,10 @@
   "author": "Nicolas Cordero",
   "license": "ISC",
   "devDependencies": {
+    "chai": "*",
     "chai-http": "^3.0.0",
     "mocha": "^3.5.0",
-    "restify": "^4.3.0"
+    "restify": "^4.3.0",
+    "restify-cookies": "^0.2.2"
   }
 }
